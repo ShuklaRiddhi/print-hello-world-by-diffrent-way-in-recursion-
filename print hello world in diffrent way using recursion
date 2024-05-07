@@ -1,0 +1,26 @@
+public class main {
+public static void main(string[] args) {
+message();
+static void message() {
+system.out.println("hello world");
+measasge();
+static void message() {
+system.out.println("hello world");
+message 1();
+}
+static void message1() {
+system.out.println("hello world");
+message2();
+}
+static void message2() {
+system.out.println("hello world");
+message3();
+}
+static void message3() {
+system.out.println("hello world");
+messege4();
+}
+}
+
+
+
